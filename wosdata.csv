@@ -1,0 +1,1859 @@
+,0
+0,"<?xml version=""1.0"" ?>
+<records>    <REC r_id_disclaimer=""ResearcherID data provided by Clarivate Analytics"">
+        <UID>WOS:000408871300017</UID>
+        <static_data>
+            <summary>
+                <EWUID>
+                    <WUID coll_id=""WOS""/>
+                    <edition value=""WOS.ESCI""/>
+                </EWUID>
+                <pub_info sortdate=""2016-12-01"" pubyear=""2016"" has_abstract=""Y"" coverdate=""DEC 2016"" pubmonth=""DEC"" vol=""32"" issue=""6"" pubtype=""Journal"">
+                    <page begin=""741"" end=""746"" page_count=""6"">741-746</page>
+                </pub_info>
+                <titles count=""6"">
+                    <title type=""source"">KOREAN JOURNAL OF REMOTE SENSING</title>
+                    <title type=""source_abbrev"">KOREAN J REMOTE SENS</title>
+                    <title type=""abbrev_iso"">Korean J. Remote Sensing</title>
+                    <title type=""abbrev_11"">KOR J RE SE</title>
+                    <title type=""abbrev_29"">KOREAN J REMOTE SENSING</title>
+                    <title type=""item"">Landsat 8-based High Resolution Surface Broadband Albedo Retrieval</title>
+                </titles>
+                <names count=""10"">
+                    <name seq_no=""1"" role=""author"" addr_no=""1"" daisng_id=""10419785"" spPGUID=""urn:spm:10419785"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Lee, Darae</display_name>
+                        <preferred_name>
+                            <full_name>Lee, Darae</full_name>
+                            <first_name>Darae</first_name>
+                            <last_name>Lee</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Lee, Darae</full_name>
+                        <wos_standard>Lee, D</wos_standard>
+                        <first_name>Darae</first_name>
+                        <last_name>Lee</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">DBD-9381-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""2"" role=""author"" addr_no=""1"" daisng_id=""29626314"" spPGUID=""urn:spm:29626314"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Seo, Minji</display_name>
+                        <preferred_name>
+                            <full_name>Seo, Minji</full_name>
+                            <first_name>Minji</first_name>
+                            <last_name>Seo</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Seo, Minji</full_name>
+                        <wos_standard>Seo, M</wos_standard>
+                        <first_name>Minji</first_name>
+                        <last_name>Seo</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">GCT-5929-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""3"" role=""author"" addr_no=""1"" daisng_id=""14904483"" spPGUID=""urn:spm:14904483"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Lee, Kyeong-sang</display_name>
+                        <preferred_name>
+                            <full_name>Lee, Kyeong-Sang</full_name>
+                            <first_name>Kyeong-Sang</first_name>
+                            <last_name>Lee</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Lee, Kyeong-sang</full_name>
+                        <wos_standard>Lee, KS</wos_standard>
+                        <first_name>Kyeong-sang</first_name>
+                        <last_name>Lee</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">DTQ-4086-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""4"" role=""author"" addr_no=""1"" daisng_id=""19827818"" spPGUID=""urn:spm:19827818"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Choi, Sungwon</display_name>
+                        <preferred_name>
+                            <full_name>Choi, Sungwon</full_name>
+                            <first_name>Sungwon</first_name>
+                            <last_name>Choi</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Choi, Sungwon</full_name>
+                        <wos_standard>Choi, S</wos_standard>
+                        <first_name>Sungwon</first_name>
+                        <last_name>Choi</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">EOC-7426-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""5"" role=""author"" addr_no=""1"" daisng_id=""30015546"" spPGUID=""urn:spm:30015546"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Sung, Noh-hun</display_name>
+                        <preferred_name>
+                            <full_name>Sung, Noh-Hun</full_name>
+                            <first_name>Noh-Hun</first_name>
+                            <last_name>Sung</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Sung, Noh-hun</full_name>
+                        <wos_standard>Sung, NH</wos_standard>
+                        <first_name>Noh-hun</first_name>
+                        <last_name>Sung</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">GEI-5162-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""6"" role=""author"" addr_no=""1"" daisng_id=""23473657"" spPGUID=""urn:spm:23473657"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Kim, Honghee</display_name>
+                        <preferred_name>
+                            <full_name>Kim, Honghee</full_name>
+                            <first_name>Honghee</first_name>
+                            <last_name>Kim</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Kim, Honghee</full_name>
+                        <wos_standard>Kim, H</wos_standard>
+                        <first_name>Honghee</first_name>
+                        <last_name>Kim</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">FCZ-3263-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""7"" role=""author"" addr_no=""1"" daisng_id=""28899995"" spPGUID=""urn:spm:28899995"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Jin, Donghyun</display_name>
+                        <preferred_name>
+                            <full_name>Jin, Donghyun</full_name>
+                            <first_name>Donghyun</first_name>
+                            <last_name>Jin</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Jin, Donghyun</full_name>
+                        <wos_standard>Jin, D</wos_standard>
+                        <first_name>Donghyun</first_name>
+                        <last_name>Jin</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">FZM-9602-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""8"" role=""author"" addr_no=""1"" daisng_id=""10116899"" spPGUID=""urn:spm:10116899"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Kwon, Chaeyoung</display_name>
+                        <preferred_name>
+                            <full_name>Kwon, Chaeyoung</full_name>
+                            <first_name>Chaeyoung</first_name>
+                            <last_name>Kwon</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Kwon, Chaeyoung</full_name>
+                        <wos_standard>Kwon, C</wos_standard>
+                        <first_name>Chaeyoung</first_name>
+                        <last_name>Kwon</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">CZO-6491-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""9"" role=""author"" addr_no=""2"" daisng_id=""9027386"" spPGUID=""urn:spm:9027386"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Huh, Morang</display_name>
+                        <preferred_name>
+                            <full_name>Huh, Morang</full_name>
+                            <first_name>Morang</first_name>
+                            <last_name>Huh</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Huh, Morang</full_name>
+                        <wos_standard>Huh, M</wos_standard>
+                        <first_name>Morang</first_name>
+                        <last_name>Huh</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">CVI-6978-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""10"" role=""author"" reprint=""Y"" addr_no=""1"" daisng_id=""14974090"" spPGUID=""urn:spm:14974090"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Han, Kyung-Soo</display_name>
+                        <preferred_name>
+                            <full_name>Han, Kyung-Soo</full_name>
+                            <first_name>Kyung-Soo</first_name>
+                            <last_name>Han</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Han, Kyung-Soo</full_name>
+                        <wos_standard>Han, KS</wos_standard>
+                        <first_name>Kyung-Soo</first_name>
+                        <last_name>Han</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">DTX-3688-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                </names>
+                <doctypes count=""1"">
+                    <doctype>Article</doctype>
+                </doctypes>
+                <publishers>
+                    <publisher>
+                        <address_spec addr_no=""1"">
+                            <full_address>KOREAN SOC REMOTE SENSING, SEOUL, 00000, SOUTH KOREA</full_address>
+                            <city>SEOUL</city>
+                        </address_spec>
+                        <names count=""1"">
+                            <name role=""publisher"" seq_no=""1"" addr_no=""1"">
+                                <display_name>KOREAN SOC REMOTE SENSING</display_name>
+                                <full_name>KOREAN SOC REMOTE SENSING</full_name>
+                                <unified_name>Korean Soc Remote Sensing</unified_name>
+                            </name>
+                        </names>
+                    </publisher>
+                </publishers>
+            </summary>
+            <fullrecord_metadata>
+                <languages count=""1"">
+                    <language type=""primary"">Korean</language>
+                </languages>
+                <normalized_languages count=""1"">
+                    <language type=""primary"">Korean</language>
+                </normalized_languages>
+                <normalized_doctypes count=""1"">
+                    <doctype>Article</doctype>
+                </normalized_doctypes>
+                <refs count=""11""/>
+                <addresses count=""2"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>Pukyong Natl Univ, Div Earth Environm Syst Sci Major Spatial Informa, Busan, South Korea</full_address>
+                            <organizations count=""2"">
+                                <organization>Pukyong Natl Univ</organization>
+                                <organization pref=""Y"">Pukyong National University</organization>
+                            </organizations>
+                            <suborganizations count=""1"">
+                                <suborganization>Div Earth Environm Syst Sci Major Spatial Informa</suborganization>
+                            </suborganizations>
+                            <city>Busan</city>
+                            <country>South Korea</country>
+                        </address_spec>
+                        <names count=""9"">
+                            <name seq_no=""1"" role=""author"" addr_no=""1"" daisng_id=""10419785"" spPGUID=""urn:spm:10419785"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Lee, Darae</display_name>
+                                <preferred_name>
+                                    <full_name>Lee, Darae</full_name>
+                                    <first_name>Darae</first_name>
+                                    <last_name>Lee</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Lee, Darae</full_name>
+                                <wos_standard>Lee, D</wos_standard>
+                                <first_name>Darae</first_name>
+                                <last_name>Lee</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">DBD-9381-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""2"" role=""author"" addr_no=""1"" daisng_id=""29626314"" spPGUID=""urn:spm:29626314"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Seo, Minji</display_name>
+                                <preferred_name>
+                                    <full_name>Seo, Minji</full_name>
+                                    <first_name>Minji</first_name>
+                                    <last_name>Seo</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Seo, Minji</full_name>
+                                <wos_standard>Seo, M</wos_standard>
+                                <first_name>Minji</first_name>
+                                <last_name>Seo</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">GCT-5929-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""3"" role=""author"" addr_no=""1"" daisng_id=""14904483"" spPGUID=""urn:spm:14904483"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Lee, Kyeong-sang</display_name>
+                                <preferred_name>
+                                    <full_name>Lee, Kyeong-Sang</full_name>
+                                    <first_name>Kyeong-Sang</first_name>
+                                    <last_name>Lee</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Lee, Kyeong-sang</full_name>
+                                <wos_standard>Lee, KS</wos_standard>
+                                <first_name>Kyeong-sang</first_name>
+                                <last_name>Lee</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">DTQ-4086-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""4"" role=""author"" addr_no=""1"" daisng_id=""19827818"" spPGUID=""urn:spm:19827818"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Choi, Sungwon</display_name>
+                                <preferred_name>
+                                    <full_name>Choi, Sungwon</full_name>
+                                    <first_name>Sungwon</first_name>
+                                    <last_name>Choi</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Choi, Sungwon</full_name>
+                                <wos_standard>Choi, S</wos_standard>
+                                <first_name>Sungwon</first_name>
+                                <last_name>Choi</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">EOC-7426-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""5"" role=""author"" addr_no=""1"" daisng_id=""30015546"" spPGUID=""urn:spm:30015546"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Sung, Noh-hun</display_name>
+                                <preferred_name>
+                                    <full_name>Sung, Noh-Hun</full_name>
+                                    <first_name>Noh-Hun</first_name>
+                                    <last_name>Sung</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Sung, Noh-hun</full_name>
+                                <wos_standard>Sung, NH</wos_standard>
+                                <first_name>Noh-hun</first_name>
+                                <last_name>Sung</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">GEI-5162-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""6"" role=""author"" addr_no=""1"" daisng_id=""23473657"" spPGUID=""urn:spm:23473657"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Kim, Honghee</display_name>
+                                <preferred_name>
+                                    <full_name>Kim, Honghee</full_name>
+                                    <first_name>Honghee</first_name>
+                                    <last_name>Kim</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Kim, Honghee</full_name>
+                                <wos_standard>Kim, H</wos_standard>
+                                <first_name>Honghee</first_name>
+                                <last_name>Kim</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">FCZ-3263-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""7"" role=""author"" addr_no=""1"" daisng_id=""28899995"" spPGUID=""urn:spm:28899995"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Jin, Donghyun</display_name>
+                                <preferred_name>
+                                    <full_name>Jin, Donghyun</full_name>
+                                    <first_name>Donghyun</first_name>
+                                    <last_name>Jin</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Jin, Donghyun</full_name>
+                                <wos_standard>Jin, D</wos_standard>
+                                <first_name>Donghyun</first_name>
+                                <last_name>Jin</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">FZM-9602-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""8"" role=""author"" addr_no=""1"" daisng_id=""10116899"" spPGUID=""urn:spm:10116899"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Kwon, Chaeyoung</display_name>
+                                <preferred_name>
+                                    <full_name>Kwon, Chaeyoung</full_name>
+                                    <first_name>Chaeyoung</first_name>
+                                    <last_name>Kwon</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Kwon, Chaeyoung</full_name>
+                                <wos_standard>Kwon, C</wos_standard>
+                                <first_name>Chaeyoung</first_name>
+                                <last_name>Kwon</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">CZO-6491-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""10"" role=""author"" reprint=""Y"" addr_no=""1"" daisng_id=""14974090"" spPGUID=""urn:spm:14974090"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Han, Kyung-Soo</display_name>
+                                <preferred_name>
+                                    <full_name>Han, Kyung-Soo</full_name>
+                                    <first_name>Kyung-Soo</first_name>
+                                    <last_name>Han</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Han, Kyung-Soo</full_name>
+                                <wos_standard>Han, KS</wos_standard>
+                                <first_name>Kyung-Soo</first_name>
+                                <last_name>Han</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">DTX-3688-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                        </names>
+                    </address_name>
+                    <address_name>
+                        <address_spec addr_no=""2"">
+                            <full_address>PK Syst Inc, Daejeon, South Korea</full_address>
+                            <organizations count=""1"">
+                                <organization>PK Syst Inc</organization>
+                            </organizations>
+                            <city>Daejeon</city>
+                            <country>South Korea</country>
+                        </address_spec>
+                        <names count=""1"">
+                            <name seq_no=""9"" role=""author"" addr_no=""2"" daisng_id=""9027386"" spPGUID=""urn:spm:9027386"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Huh, Morang</display_name>
+                                <preferred_name>
+                                    <full_name>Huh, Morang</full_name>
+                                    <first_name>Morang</first_name>
+                                    <last_name>Huh</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Huh, Morang</full_name>
+                                <wos_standard>Huh, M</wos_standard>
+                                <first_name>Morang</first_name>
+                                <last_name>Huh</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">CVI-6978-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                        </names>
+                    </address_name>
+                </addresses>
+                <reprint_addresses count=""1"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>Pukyong Natl Univ, Div Earth Environm Syst Sci Major Spatial Informa, Busan, South Korea</full_address>
+                            <organizations count=""2"">
+                                <organization>Pukyong Natl Univ</organization>
+                                <organization pref=""Y"">Pukyong National University</organization>
+                            </organizations>
+                            <suborganizations count=""1"">
+                                <suborganization>Div Earth Environm Syst Sci Major Spatial Informa</suborganization>
+                            </suborganizations>
+                            <city>Busan</city>
+                            <country>South Korea</country>
+                        </address_spec>
+                        <names count=""1"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"">
+                                <display_name>Han, Kyung-Soo</display_name>
+                                <full_name>Han, Kyung-Soo</full_name>
+                                <wos_standard>Han, KS</wos_standard>
+                                <first_name>Kyung-Soo</first_name>
+                                <last_name>Han</last_name>
+                            </name>
+                        </names>
+                    </address_name>
+                </reprint_addresses>
+                <category_info>
+                    <headings count=""1"">
+                        <heading>Science &amp; Technology</heading>
+                    </headings>
+                    <subheadings count=""1"">
+                        <subheading>Technology</subheading>
+                    </subheadings>
+                    <subjects count=""2"">
+                        <subject ascatype=""traditional"" code=""SR"">Remote Sensing</subject>
+                        <subject ascatype=""extended"">Remote Sensing</subject>
+                    </subjects>
+                </category_info>
+                <keywords count=""5"">
+                    <keyword>Landsat 7</keyword>
+                    <keyword>Landsat 8</keyword>
+                    <keyword>surface broadband albedo</keyword>
+                    <keyword>multiple regression</keyword>
+                    <keyword>high resolution</keyword>
+                </keywords>
+                <abstracts count=""1"">
+                    <abstract>
+                        <abstract_text count=""1"">
+                            <p>Albedo is one of the climate variables that modulate absorption of solar energy, and its retrieval is important process for climate change study. High spatial resolution and long-term consistent periods are important considerations in order to efficiently use the retrieved albedo data. This study retrieved surface broadband albedo based on Landsat 8 as high resolution which is consistent with Landsat 7. First of all, we analyzed consistency of Landsat 7 channel and Landsat 8 channel. As a result, correlation coefficient(R) on all channels is average 0.96. Based on this analysis, we used multiple linear regression model using Landsat 7 albedo, which is being used in many studies, and Landsat 8 reflectance channel data. The regression coefficients of each channel calculated by regression analysis were used to derive a formula for converting the Landsat 8 reflectance channel data to broadband albedo. After Landsat 8 albedo calculated using the derived formula is compared with Landsat 7 albedo data, we confirmed consistency of two satellite using Root Mean Square Error (RMSE), R-square (R-2) and bias. As a result, R-2 is 0.89 and RMSE is 0.003 between Landsat 7 albedo and Landsat 8 albedo.</p>
+                        </abstract_text>
+                    </abstract>
+                </abstracts>
+            </fullrecord_metadata>
+            <item xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:type=""itemType_wos"" coll_id=""WOS"">
+                <ids avail=""N"">FF4BI</ids>
+                <bib_id>32 (6): 741-746 DEC 2016</bib_id>
+                <bib_pagecount type=""Journal"">190</bib_pagecount>
+                <keywords_plus count=""4"">
+                    <keyword>NARROW-BAND</keyword>
+                    <keyword>REFLECTANCE</keyword>
+                    <keyword>SATELLITE</keyword>
+                    <keyword>SNOW</keyword>
+                </keywords_plus>
+            </item>
+        </static_data>
+        <dynamic_data>
+            <citation_related>
+                <tc_list>
+                    <silo_tc coll_id=""WOS"" local_count=""4""/>
+                </tc_list>
+                <tc_list_cc dedup_total_count=""1"">
+                    <function_tc func_class=""basis"" local_count=""1""/>
+                    <function_tc func_class=""background"" local_count=""0""/>
+                    <function_tc func_class=""support"" local_count=""0""/>
+                    <function_tc func_class=""differ"" local_count=""0""/>
+                    <function_tc func_class=""discuss"" local_count=""0""/>
+                </tc_list_cc>
+            </citation_related>
+            <cluster_related>
+                <identifiers>
+                    <identifier type=""issn"" value=""1225-6161""/>
+                    <identifier type=""eissn"" value=""2287-9307""/>
+                    <identifier type=""doi"" value=""10.7780/kjrs.2016.32.6.17""/>
+                </identifiers>
+            </cluster_related>
+        </dynamic_data>
+    </REC>
+    <REC r_id_disclaimer=""ResearcherID data provided by Clarivate Analytics"">
+        <UID>WOS:000186749300002</UID>
+        <static_data>
+            <summary>
+                <EWUID>
+                    <WUID coll_id=""WOS""/>
+                    <edition value=""WOS.SCI""/>
+                </EWUID>
+                <pub_info sortdate=""2003-04-01"" pubyear=""2003"" has_abstract=""Y"" coverdate=""APR 2003"" pubmonth=""APR"" vol=""29"" issue=""2"" pubtype=""Journal"">
+                    <page begin=""141"" end=""153"" page_count=""13"">141-153</page>
+                </pub_info>
+                <titles count=""6"">
+                    <title type=""source"">CANADIAN JOURNAL OF REMOTE SENSING</title>
+                    <title type=""source_abbrev"">CAN J REMOTE SENS</title>
+                    <title type=""abbrev_iso"">Can. J. Remote Sens.</title>
+                    <title type=""abbrev_11"">CAN J REM S</title>
+                    <title type=""abbrev_29"">CAN J REMOTE SENS</title>
+                    <title type=""item"">Landsat TM and ETM+ thermal band calibration</title>
+                </titles>
+                <names count=""8"">
+                    <name seq_no=""1"" role=""author"" reprint=""Y"" daisng_id=""3929409"" spPGUID=""urn:spm:3929409"" claim_status=""true"" allow_aug=""false"">
+                        <display_name>Barsi, JA</display_name>
+                        <preferred_name>
+                            <full_name>Barsi, Julia</full_name>
+                            <first_name>Julia</first_name>
+                            <last_name>Barsi</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <noncore_startyear>2005</noncore_startyear>
+                        <noncore_endyear>2020</noncore_endyear>
+                        <full_name>Barsi, JA</full_name>
+                        <wos_standard>Barsi, JA</wos_standard>
+                        <first_name>JA</first_name>
+                        <last_name>Barsi</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">CAF-8993-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""2"" role=""author"" daisng_id=""27940066"" spPGUID=""urn:spm:27940066"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Schott, JR</display_name>
+                        <preferred_name>
+                            <full_name>Schott, John R.</full_name>
+                            <first_name>John R.</first_name>
+                            <last_name>Schott</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Schott, JR</full_name>
+                        <wos_standard>Schott, JR</wos_standard>
+                        <last_name>Schott</last_name>
+                        <suffix>JR</suffix>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">FVU-9672-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""3"" role=""author"" daisng_id=""12974173"" spPGUID=""urn:spm:12974173"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Palluconi, FD</display_name>
+                        <preferred_name>
+                            <full_name>Palluconi, Frank D.</full_name>
+                            <first_name>Frank D.</first_name>
+                            <last_name>Palluconi</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Palluconi, FD</full_name>
+                        <wos_standard>Palluconi, FD</wos_standard>
+                        <first_name>FD</first_name>
+                        <last_name>Palluconi</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">DLT-3768-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""4"" role=""author"" daisng_id=""8531844"" spPGUID=""urn:spm:8531844"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Heider, DL</display_name>
+                        <preferred_name>
+                            <full_name>Heider, D.</full_name>
+                            <first_name>D.</first_name>
+                            <last_name>Heider</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Heider, DL</full_name>
+                        <wos_standard>Heider, DL</wos_standard>
+                        <first_name>DL</first_name>
+                        <last_name>Heider</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">CTE-1437-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""5"" role=""author"" daisng_id=""548851"" spPGUID=""urn:spm:548851"" claim_status=""true"" allow_aug=""false"">
+                        <display_name>Hook, SJ</display_name>
+                        <preferred_name>
+                            <full_name>Hook, Simon J</full_name>
+                            <first_name>Simon</first_name>
+                            <middle_name>J</middle_name>
+                            <last_name>Hook</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Hook, SJ</full_name>
+                        <wos_standard>Hook, SJ</wos_standard>
+                        <first_name>SJ</first_name>
+                        <last_name>Hook</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">D-5920-2016</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""6"" role=""author"" daisng_id=""2348454"" spPGUID=""urn:spm:2348454"" claim_status=""true"" allow_aug=""false"">
+                        <display_name>Markham, BL</display_name>
+                        <preferred_name>
+                            <full_name>Markham, Brian</full_name>
+                            <first_name>Brian</first_name>
+                            <last_name>Markham</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Markham, BL</full_name>
+                        <wos_standard>Markham, BL</wos_standard>
+                        <first_name>BL</first_name>
+                        <last_name>Markham</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">AAV-7659-2021</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""7"" role=""author"" daisng_id=""20620863"" spPGUID=""urn:spm:20620863"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Chander, G</display_name>
+                        <preferred_name>
+                            <full_name>Chander, Gyanesh</full_name>
+                            <first_name>Gyanesh</first_name>
+                            <last_name>Chander</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Chander, G</full_name>
+                        <wos_standard>Chander, G</wos_standard>
+                        <first_name>G</first_name>
+                        <last_name>Chander</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">ERI-0469-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""8"" role=""author"" daisng_id=""26320749"" spPGUID=""urn:spm:26320749"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>O'Donnell, EM</display_name>
+                        <preferred_name>
+                            <full_name>O'Donnell, Erica M.</full_name>
+                            <first_name>Erica M.</first_name>
+                            <last_name>O'Donnell</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>O'Donnell, EM</full_name>
+                        <wos_standard>O'Donnell, EM</wos_standard>
+                        <first_name>EM</first_name>
+                        <last_name>O'Donnell</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">FPH-0356-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                </names>
+                <doctypes count=""1"">
+                    <doctype>Article</doctype>
+                </doctypes>
+                <publishers>
+                    <publisher>
+                        <address_spec addr_no=""1"">
+                            <full_address>1685 RUSSELL RD, UNIT 1-R, OTTAWA, ON K1G 0N1, CANADA</full_address>
+                            <city>OTTAWA</city>
+                        </address_spec>
+                        <names count=""1"">
+                            <name role=""publisher"" seq_no=""1"" addr_no=""1"">
+                                <display_name>CANADIAN AERONAUTICS SPACE INST</display_name>
+                                <full_name>CANADIAN AERONAUTICS SPACE INST</full_name>
+                            </name>
+                        </names>
+                    </publisher>
+                </publishers>
+            </summary>
+            <fullrecord_metadata>
+                <languages count=""1"">
+                    <language type=""primary"">English</language>
+                </languages>
+                <normalized_languages count=""1"">
+                    <language type=""primary"">English</language>
+                </normalized_languages>
+                <normalized_doctypes count=""1"">
+                    <doctype>Article</doctype>
+                </normalized_doctypes>
+                <refs count=""10""/>
+                <addresses count=""5"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>NASA, Goddard Space Flight Ctr, Sci Syst &amp; Applicat Inc, Greenbelt, MD 20771 USA</full_address>
+                            <organizations count=""4"">
+                                <organization>NASA</organization>
+                                <organization pref=""Y"">National Aeronautics &amp; Space Administration (NASA)</organization>
+                                <organization pref=""Y"">NASA Goddard Space Flight Center</organization>
+                                <organization pref=""Y"">Science Systems and Applications Inc</organization>
+                            </organizations>
+                            <suborganizations count=""2"">
+                                <suborganization>Goddard Space Flight Ctr</suborganization>
+                                <suborganization>Sci Syst &amp; Applicat Inc</suborganization>
+                            </suborganizations>
+                            <city>Greenbelt</city>
+                            <state>MD</state>
+                            <country>USA</country>
+                            <zip location=""AP"">20771</zip>
+                        </address_spec>
+                    </address_name>
+                    <address_name>
+                        <address_spec addr_no=""2"">
+                            <full_address>Rochester Inst Technol, Rochester, NY 14623 USA</full_address>
+                            <organizations count=""2"">
+                                <organization>Rochester Inst Technol</organization>
+                                <organization pref=""Y"">Rochester Institute of Technology</organization>
+                            </organizations>
+                            <city>Rochester</city>
+                            <state>NY</state>
+                            <country>USA</country>
+                            <zip location=""AP"">14623</zip>
+                        </address_spec>
+                    </address_name>
+                    <address_name>
+                        <address_spec addr_no=""3"">
+                            <full_address>CALTECH, Jet Prop Lab, Pasadena, CA 91109 USA</full_address>
+                            <organizations count=""4"">
+                                <organization>CALTECH</organization>
+                                <organization pref=""Y"">California Institute of Technology</organization>
+                                <organization pref=""Y"">National Aeronautics &amp; Space Administration (NASA)</organization>
+                                <organization pref=""Y"">NASA Jet Propulsion Laboratory (JPL)</organization>
+                            </organizations>
+                            <suborganizations count=""1"">
+                                <suborganization>Jet Prop Lab</suborganization>
+                            </suborganizations>
+                            <city>Pasadena</city>
+                            <state>CA</state>
+                            <country>USA</country>
+                            <zip location=""AP"">91109</zip>
+                        </address_spec>
+                    </address_name>
+                    <address_name>
+                        <address_spec addr_no=""4"">
+                            <full_address>S Dakota State Univ, Dept Elect Engn, Brookings, SD 57007 USA</full_address>
+                            <organizations count=""2"">
+                                <organization>S Dakota State Univ</organization>
+                                <organization pref=""Y"">South Dakota State University</organization>
+                            </organizations>
+                            <suborganizations count=""1"">
+                                <suborganization>Dept Elect Engn</suborganization>
+                            </suborganizations>
+                            <city>Brookings</city>
+                            <state>SD</state>
+                            <country>USA</country>
+                            <zip location=""AP"">57007</zip>
+                        </address_spec>
+                    </address_name>
+                    <address_name>
+                        <address_spec addr_no=""5"">
+                            <full_address>US Geol Survey, EROS Data Ctr, Raytheon Infroamt Technol &amp; Sci Serv, Sioux Falls, SD 57198 USA</full_address>
+                            <organizations count=""3"">
+                                <organization>US Geol Survey</organization>
+                                <organization pref=""Y"">United States Department of the Interior</organization>
+                                <organization pref=""Y"">United States Geological Survey</organization>
+                            </organizations>
+                            <suborganizations count=""2"">
+                                <suborganization>EROS Data Ctr</suborganization>
+                                <suborganization>Raytheon Infroamt Technol &amp; Sci Serv</suborganization>
+                            </suborganizations>
+                            <city>Sioux Falls</city>
+                            <state>SD</state>
+                            <country>USA</country>
+                            <zip location=""AP"">57198</zip>
+                        </address_spec>
+                    </address_name>
+                </addresses>
+                <reprint_addresses count=""1"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>NASA, Goddard Space Flight Ctr, Sci Syst &amp; Applicat Inc, Code 923, Greenbelt, MD 20771 USA</full_address>
+                            <organizations count=""4"">
+                                <organization>NASA</organization>
+                                <organization pref=""Y"">National Aeronautics &amp; Space Administration (NASA)</organization>
+                                <organization pref=""Y"">NASA Goddard Space Flight Center</organization>
+                                <organization pref=""Y"">Science Systems and Applications Inc</organization>
+                            </organizations>
+                            <suborganizations count=""2"">
+                                <suborganization>Goddard Space Flight Ctr</suborganization>
+                                <suborganization>Sci Syst &amp; Applicat Inc</suborganization>
+                            </suborganizations>
+                            <street>Code 923</street>
+                            <city>Greenbelt</city>
+                            <state>MD</state>
+                            <country>USA</country>
+                            <zip location=""AP"">20771</zip>
+                        </address_spec>
+                        <names count=""1"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"" display=""N"">
+                                <display_name>Barsi, JA</display_name>
+                                <full_name>Barsi, JA</full_name>
+                                <wos_standard>Barsi, JA</wos_standard>
+                                <first_name>JA</first_name>
+                                <last_name>Barsi</last_name>
+                            </name>
+                        </names>
+                    </address_name>
+                </reprint_addresses>
+                <category_info>
+                    <headings count=""1"">
+                        <heading>Science &amp; Technology</heading>
+                    </headings>
+                    <subheadings count=""1"">
+                        <subheading>Technology</subheading>
+                    </subheadings>
+                    <subjects count=""2"">
+                        <subject ascatype=""traditional"" code=""SR"">Remote Sensing</subject>
+                        <subject ascatype=""extended"">Remote Sensing</subject>
+                    </subjects>
+                </category_info>
+                <abstracts count=""1"">
+                    <abstract>
+                        <abstract_text count=""1"">
+                            <p>Landsat-5 has been imaging the Earth since March 1984, and Landsat-7 was added to the series of Landsat instruments in April 1999. The Landsat Project Science Office and the Landsat-7 Image Assessment System have been monitoring the on-board calibration of Landsat-7 since launch. Additionally, two separate university teams have been evaluating the on-board thermal calibration of Landsat-7 through ground-based measurements since launch. Although not monitored as closely over its lifetime, a new effort is currently being made to validate the calibration of Landsat-5. Two university teams are beginning to collect ground truth under Landsat-5, along with using other vicarious calibration methods to go back into the archive to validate the history of the calibration of Landsat-5. This paper considers the calibration efforts for the thermal band, band 6, of both the Landsat-5 and Landsat-7 instruments. Though stable since launch, Landsat-7 had an initial calibration error of about 3 K, and changes were made to correct for this beginning I October 2000 for data processed with the National Landsat Archive Production System (NLAPS) and beginning 20 December 2000 for data processed with the Landsat Product Generation System (LPGS). Recent results from Landsat-5 vicarious calibration efforts show an offset of -0.7 K over the lifetime of the instrument. This suggests that historical calibration efforts may have been detecting errors in processing systems rather than changes in the instrument. A correction to the Landsat-5 processing has not yet been implemented but will be in the near future.</p>
+                        </abstract_text>
+                    </abstract>
+                </abstracts>
+            </fullrecord_metadata>
+            <item xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:type=""itemType_wos"" coll_id=""WOS"">
+                <ids avail=""Y"">746MC</ids>
+                <bib_id>29 (2): 141-153 APR 2003</bib_id>
+            </item>
+            <contributors count=""4"">
+                <contributor>
+                    <name seq_no=""1"" role=""researcher_id"" r_id=""M-4842-2013"" orcid_id=""0000-0002-9612-8169"">
+                        <display_name>Markham, Brian</display_name>
+                        <full_name>Markham, Brian</full_name>
+                        <first_name>Brian</first_name>
+                        <last_name>Markham</last_name>
+                    </name>
+                </contributor>
+                <contributor>
+                    <name seq_no=""2"" role=""researcher_id"" r_id=""CAF-8993-2022"">
+                        <display_name>Barsi, Julia</display_name>
+                        <full_name>Barsi, Julia</full_name>
+                        <first_name>Julia</first_name>
+                        <last_name>Barsi</last_name>
+                    </name>
+                </contributor>
+                <contributor>
+                    <name seq_no=""3"" role=""researcher_id"" r_id=""D-5920-2016"" orcid_id=""0000-0002-0953-6165"">
+                        <display_name>Hook, Simon J</display_name>
+                        <full_name>Hook, Simon J</full_name>
+                        <first_name>Simon J</first_name>
+                        <last_name>Hook</last_name>
+                    </name>
+                </contributor>
+                <contributor>
+                    <name seq_no=""4"" role=""researcher_id"" r_id=""AAV-7659-2021"" orcid_id=""0000-0002-9612-8169"">
+                        <display_name>Markham, Brian</display_name>
+                        <full_name>Markham, Brian</full_name>
+                        <first_name>Brian</first_name>
+                        <last_name>Markham</last_name>
+                    </name>
+                </contributor>
+            </contributors>
+        </static_data>
+        <dynamic_data>
+            <citation_related>
+                <tc_list>
+                    <silo_tc coll_id=""WOS"" local_count=""99""/>
+                </tc_list>
+                <tc_list_cc dedup_total_count=""4"">
+                    <function_tc func_class=""basis"" local_count=""4""/>
+                    <function_tc func_class=""background"" local_count=""0""/>
+                    <function_tc func_class=""support"" local_count=""0""/>
+                    <function_tc func_class=""differ"" local_count=""0""/>
+                    <function_tc func_class=""discuss"" local_count=""0""/>
+                </tc_list_cc>
+            </citation_related>
+            <cluster_related>
+                <identifiers>
+                    <identifier type=""issn"" value=""0703-8992""/>
+                    <identifier type=""xref_doi"" value=""10.5589/m02-087""/>
+                </identifiers>
+            </cluster_related>
+        </dynamic_data>
+    </REC>
+    <REC r_id_disclaimer=""ResearcherID data provided by Clarivate Analytics"">
+        <UID>WOS:000386321900003</UID>
+        <static_data>
+            <summary>
+                <EWUID>
+                    <WUID coll_id=""WOS""/>
+                    <edition value=""WOS.SCI""/>
+                </EWUID>
+                <pub_info sortdate=""2016-11-01"" pubyear=""2016"" has_abstract=""Y"" coverdate=""NOV 2016"" pubmonth=""NOV"" vol=""185"" special_issue=""SI"" pubtype=""Journal"">
+                    <page begin=""16"" end=""36"" page_count=""21"">16-36</page>
+                </pub_info>
+                <titles count=""6"">
+                    <title type=""source"">REMOTE SENSING OF ENVIRONMENT</title>
+                    <title type=""source_abbrev"">REMOTE SENS ENVIRON</title>
+                    <title type=""abbrev_iso"">Remote Sens. Environ.</title>
+                    <title type=""abbrev_11"">REMOT SEN E</title>
+                    <title type=""abbrev_29"">REMOTE SENS ENVIRON</title>
+                    <title type=""item"">An analysis of Landsat 7 and Landsat 8 underflight data and the implications for time series investigations</title>
+                </titles>
+                <names count=""2"">
+                    <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"" daisng_id=""15420131"" spPGUID=""urn:spm:15420131"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Holden, Christopher E.</display_name>
+                        <preferred_name>
+                            <full_name>Holden, Christopher E.</full_name>
+                            <first_name>Christopher E.</first_name>
+                            <last_name>Holden</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Holden, Christopher E.</full_name>
+                        <wos_standard>Holden, CE</wos_standard>
+                        <first_name>Christopher E.</first_name>
+                        <last_name>Holden</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">DVY-9725-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""2"" role=""author"" addr_no=""1"" daisng_id=""1853420"" spPGUID=""urn:spm:1853420"" claim_status=""true"" allow_aug=""false"">
+                        <display_name>Woodcock, Curtis E.</display_name>
+                        <preferred_name>
+                            <full_name>Woodcock, Curtis</full_name>
+                            <first_name>Curtis</first_name>
+                            <last_name>Woodcock</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Woodcock, Curtis E.</full_name>
+                        <wos_standard>Woodcock, CE</wos_standard>
+                        <first_name>Curtis E.</first_name>
+                        <last_name>Woodcock</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">Y-2478-2019</data-item-id>
+                        </data-item-ids>
+                    </name>
+                </names>
+                <doctypes count=""1"">
+                    <doctype>Article</doctype>
+                </doctypes>
+                <publishers>
+                    <publisher>
+                        <address_spec addr_no=""1"">
+                            <full_address>STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA</full_address>
+                            <city>NEW YORK</city>
+                        </address_spec>
+                        <names count=""1"">
+                            <name role=""publisher"" seq_no=""1"" addr_no=""1"">
+                                <display_name>ELSEVIER SCIENCE INC</display_name>
+                                <full_name>ELSEVIER SCIENCE INC</full_name>
+                                <unified_name>Elsevier</unified_name>
+                            </name>
+                        </names>
+                    </publisher>
+                </publishers>
+            </summary>
+            <fullrecord_metadata>
+                <languages count=""1"">
+                    <language type=""primary"">English</language>
+                </languages>
+                <normalized_languages count=""1"">
+                    <language type=""primary"">English</language>
+                </normalized_languages>
+                <normalized_doctypes count=""1"">
+                    <doctype>Article</doctype>
+                </normalized_doctypes>
+                <refs count=""62""/>
+                <addresses count=""1"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>Boston Univ, Ctr Remote Sensing, Dept Earth &amp; Environm, 685 Commonwealth Ave, Boston, MA 02215 USA</full_address>
+                            <organizations count=""2"">
+                                <organization>Boston Univ</organization>
+                                <organization pref=""Y"">Boston University</organization>
+                            </organizations>
+                            <suborganizations count=""2"">
+                                <suborganization>Ctr Remote Sensing</suborganization>
+                                <suborganization>Dept Earth &amp; Environm</suborganization>
+                            </suborganizations>
+                            <street>685 Commonwealth Ave</street>
+                            <city>Boston</city>
+                            <state>MA</state>
+                            <country>USA</country>
+                            <zip location=""AP"">02215</zip>
+                        </address_spec>
+                        <names count=""2"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"" daisng_id=""15420131"" spPGUID=""urn:spm:15420131"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Holden, Christopher E.</display_name>
+                                <preferred_name>
+                                    <full_name>Holden, Christopher E.</full_name>
+                                    <first_name>Christopher E.</first_name>
+                                    <last_name>Holden</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Holden, Christopher E.</full_name>
+                                <wos_standard>Holden, CE</wos_standard>
+                                <first_name>Christopher E.</first_name>
+                                <last_name>Holden</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">DVY-9725-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""2"" role=""author"" addr_no=""1"" daisng_id=""1853420"" spPGUID=""urn:spm:1853420"" claim_status=""true"" allow_aug=""false"">
+                                <display_name>Woodcock, Curtis E.</display_name>
+                                <preferred_name>
+                                    <full_name>Woodcock, Curtis</full_name>
+                                    <first_name>Curtis</first_name>
+                                    <last_name>Woodcock</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Woodcock, Curtis E.</full_name>
+                                <wos_standard>Woodcock, CE</wos_standard>
+                                <first_name>Curtis E.</first_name>
+                                <last_name>Woodcock</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">Y-2478-2019</data-item-id>
+                                </data-item-ids>
+                            </name>
+                        </names>
+                    </address_name>
+                </addresses>
+                <reprint_addresses count=""1"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>Boston Univ, Ctr Remote Sensing, Dept Earth &amp; Environm, 685 Commonwealth Ave, Boston, MA 02215 USA</full_address>
+                            <organizations count=""2"">
+                                <organization>Boston Univ</organization>
+                                <organization pref=""Y"">Boston University</organization>
+                            </organizations>
+                            <suborganizations count=""2"">
+                                <suborganization>Ctr Remote Sensing</suborganization>
+                                <suborganization>Dept Earth &amp; Environm</suborganization>
+                            </suborganizations>
+                            <street>685 Commonwealth Ave</street>
+                            <city>Boston</city>
+                            <state>MA</state>
+                            <country>USA</country>
+                            <zip location=""AP"">02215</zip>
+                        </address_spec>
+                        <names count=""1"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"">
+                                <display_name>Holden, Christopher E.</display_name>
+                                <full_name>Holden, Christopher E.</full_name>
+                                <wos_standard>Holden, CE</wos_standard>
+                                <first_name>Christopher E.</first_name>
+                                <last_name>Holden</last_name>
+                            </name>
+                        </names>
+                    </address_name>
+                </reprint_addresses>
+                <category_info>
+                    <headings count=""1"">
+                        <heading>Science &amp; Technology</heading>
+                    </headings>
+                    <subheadings count=""2"">
+                        <subheading>Life Sciences &amp; Biomedicine</subheading>
+                        <subheading>Technology</subheading>
+                    </subheadings>
+                    <subjects count=""6"">
+                        <subject ascatype=""traditional"" code=""JA"">Environmental Sciences</subject>
+                        <subject ascatype=""traditional"" code=""SR"">Remote Sensing</subject>
+                        <subject ascatype=""traditional"" code=""UE"">Imaging Science &amp; Photographic Technology</subject>
+                        <subject ascatype=""extended"">Environmental Sciences &amp; Ecology</subject>
+                        <subject ascatype=""extended"">Remote Sensing</subject>
+                        <subject ascatype=""extended"">Imaging Science &amp; Photographic Technology</subject>
+                    </subjects>
+                </category_info>
+                <fund_ack>
+                    <fund_text>
+                        <p>We are grateful to the support provided by the USGS Landsat Science Team Program for Better Use of the Landsat Temporal Domain: Monitoring Land Cover Type, Condition and Change (grant number G12PC00070) and to the support of NASA for Toward a Robust REDD + Carbon Monitoring System of Deforestation and Forest Degradation (grant number WHRC-JG0866-01). We are also thankful for the careful and insightful comments made by three anonymous reviewers that helped improve this manuscript. Landsat Surface Reflectance and Landsat Spectral Indices products courtesy of the U.S. Geological Survey Earth Resources Observation and Science Center. We also thank the developers of the software within the Scientific Python community which helped enable our work, including the authors of SciPy (Jones, Oliphant, Peterson, et al., 2001-), NumPy (van der Walt, Colbert, &amp; Varoquaux, 2011), and matplotlib (Hunter, 2007).</p>
+                    </fund_text>
+                    <grants count=""2"">
+                        <grant>
+                            <grant_agency>USGS Landsat Science Team Program for Better Use of the Landsat Temporal Domain: Monitoring Land Cover Type, Condition and Change</grant_agency>
+                            <grant_ids count=""1"">
+                                <grant_id>G12PC00070</grant_id>
+                            </grant_ids>
+                        </grant>
+                        <grant>
+                            <grant_agency>NASA</grant_agency>
+                            <grant_ids count=""1"">
+                                <grant_id>WHRC-JG0866-01</grant_id>
+                            </grant_ids>
+                        </grant>
+                    </grants>
+                </fund_ack>
+                <keywords count=""5"">
+                    <keyword>Landsat 8</keyword>
+                    <keyword>Time series</keyword>
+                    <keyword>Change detection</keyword>
+                    <keyword>CCDC</keyword>
+                    <keyword>Cirrus clouds</keyword>
+                </keywords>
+                <abstracts count=""1"">
+                    <abstract>
+                        <abstract_text count=""1"">
+                            <p>The newly launched Landsat 8 satellite continues the long and extremely important record of Earth observation from the Landsat program. We analyzed differences between Landsat 7 and Landsat 8 surface reflectances and cirrus cloud characterization to address how substitutable Landsat 8 observations are within this long archive. Comparison of surface reflectance estimates acquired near simultaneously during Landsat 8's underflight orbital placement shows that Landsat 8 surface reflectance is consistently darker in the blue, green, and red bands and brighter in the near infrared than in Landsat 7. Vegetation indices that rely on the visible and near infrared bands should be used with caution as individual biases in index components can be amplified to create large biases in vegetation indices. We also analyzed time series datasets from the Landsat Climate Data Record (CDR) surface reflectance product across four scenes that contained only Landsat 7 data, Landsat 7 data and only Landsat 8 data post launch, and Landsat 7 data and data from both sensors post-launch to investigate how sensor differences propagate in time series analysis. If left uncorrected or unexplained, the difference in reflectance between Landsat 7 and Landsat 8 creates spurious time trends in visible wavelengths and in the Normalized Difference Vegetation Index (NDVI). The introduction of Landsat 8 into time series of Landsat 7 data also biases the mean reflectance or vegetation index value as measured by a time series model intercept while increasing the Root Mean Squared Error of such models. We characterized the spectral reflectance of cirrus clouds in the underflight data that were omitted from Landsat 7 cloud masks but were detected in Landsat 8's cloud mask due to the use of the newly added cirrus band. While these cirrus cloud observations missed in Landsat 7's cloud mask are only slightly brighter in the visible bands, a simulation of time series containing Landsat 8 data that does not use the cirrus band shows that omission of cirrus clouds can result in anomalously brighter time series intercepts and positive time trends. Our results indicate that while Landsat 8 has improved on the legacy of previous sensors through increased radiometric resolution, better cloud identification, and better geometric accuracy, difference in reflectance between sensors in the current Landsat CDR product must be corrected or explained within time series analysis to avoid deleterious consequences. Future efforts should identify the contributions of target specific effects versus differences in atmospheric correction methods to better inform approaches to synthesize the two sensors. (C) 2016 Elsevier Inc. All rights reserved.</p>
+                        </abstract_text>
+                    </abstract>
+                </abstracts>
+            </fullrecord_metadata>
+            <item xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:type=""itemType_wos"" coll_id=""WOS"">
+                <ids avail=""N"">EA1AY</ids>
+                <bib_id>185: 16-36 Sp. Iss. SI NOV 2016</bib_id>
+                <bib_pagecount type=""Journal"">292</bib_pagecount>
+                <keywords_plus count=""10"">
+                    <keyword>CONTERMINOUS UNITED-STATES</keyword>
+                    <keyword>THEMATIC MAPPER PLUS</keyword>
+                    <keyword>SURFACE REFLECTANCE</keyword>
+                    <keyword>FOREST DISTURBANCE</keyword>
+                    <keyword>COVER CHANGE</keyword>
+                    <keyword>IMAGER OLI</keyword>
+                    <keyword>TM/ETM PLUS</keyword>
+                    <keyword>SATELLITE</keyword>
+                    <keyword>CIRRUS</keyword>
+                    <keyword>TRANSFORMATION</keyword>
+                </keywords_plus>
+            </item>
+            <contributors count=""2"">
+                <contributor>
+                    <name seq_no=""1"" role=""researcher_id"" r_id=""Y-2478-2019"">
+                        <display_name>Woodcock, Curtis</display_name>
+                        <full_name>Woodcock, Curtis</full_name>
+                        <first_name>Curtis</first_name>
+                        <last_name>Woodcock</last_name>
+                    </name>
+                </contributor>
+                <contributor>
+                    <name seq_no=""2"" role=""researcher_id"" orcid_id=""0000-0003-1821-7905"">
+                        <display_name>Holden, Christopher</display_name>
+                        <full_name>Holden, Christopher</full_name>
+                        <first_name>Christopher</first_name>
+                        <last_name>Holden</last_name>
+                    </name>
+                </contributor>
+            </contributors>
+        </static_data>
+        <dynamic_data>
+            <citation_related>
+                <tc_list>
+                    <silo_tc coll_id=""WOS"" local_count=""57""/>
+                </tc_list>
+                <tc_list_cc dedup_total_count=""3"">
+                    <function_tc func_class=""basis"" local_count=""1""/>
+                    <function_tc func_class=""background"" local_count=""1""/>
+                    <function_tc func_class=""support"" local_count=""1""/>
+                    <function_tc func_class=""differ"" local_count=""0""/>
+                    <function_tc func_class=""discuss"" local_count=""1""/>
+                </tc_list_cc>
+            </citation_related>
+            <cluster_related>
+                <identifiers>
+                    <identifier type=""issn"" value=""0034-4257""/>
+                    <identifier type=""eissn"" value=""1879-0704""/>
+                    <identifier type=""doi"" value=""10.1016/j.rse.2016.02.052""/>
+                </identifiers>
+            </cluster_related>
+        </dynamic_data>
+    </REC>
+    <REC r_id_disclaimer=""ResearcherID data provided by Clarivate Analytics"">
+        <UID>WOS:000390131500007</UID>
+        <static_data>
+            <summary>
+                <EWUID>
+                    <WUID coll_id=""WOS""/>
+                    <edition value=""WOS.SCI""/>
+                    <edition value=""WOS.ISTP""/>
+                </EWUID>
+                <pub_info sortdate=""2016-09-01"" pubyear=""2016"" has_abstract=""Y"" coverdate=""SEP 2016"" pubmonth=""SEP"" vol=""61"" issue=""2"" pubtype=""Journal"">
+                    <page begin=""351"" end=""365"" page_count=""15"">351-365</page>
+                </pub_info>
+                <titles count=""6"">
+                    <title type=""source"">JOURNAL OF SPATIAL SCIENCE</title>
+                    <title type=""source_abbrev"">J SPAT SCI</title>
+                    <title type=""abbrev_iso"">J. Spat. Sci.</title>
+                    <title type=""abbrev_11"">J SPAT SCI</title>
+                    <title type=""abbrev_29"">J SPAT SCI</title>
+                    <title type=""item"">Comparison of tasselled cap components of images from Landsat 5 Thematic Mapper and Landsat 7 Enhanced Thematic Mapper Plus</title>
+                </titles>
+                <names count=""6"">
+                    <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1 2"" daisng_id=""29648531"" spPGUID=""urn:spm:29648531"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Liu, Qingsheng</display_name>
+                        <preferred_name>
+                            <full_name>Liu, Qingsheng</full_name>
+                            <first_name>Qingsheng</first_name>
+                            <last_name>Liu</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Liu, Qingsheng</full_name>
+                        <wos_standard>Liu, QS</wos_standard>
+                        <first_name>Qingsheng</first_name>
+                        <last_name>Liu</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">GCV-8146-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""2"" role=""author"" addr_no=""1"" daisng_id=""24439271"" spPGUID=""urn:spm:24439271"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Liu, Gaohuan</display_name>
+                        <preferred_name>
+                            <full_name>Liu, Gaohuan</full_name>
+                            <first_name>Gaohuan</first_name>
+                            <last_name>Liu</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Liu, Gaohuan</full_name>
+                        <wos_standard>Liu, GH</wos_standard>
+                        <first_name>Gaohuan</first_name>
+                        <last_name>Liu</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">FHD-8877-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""3"" role=""author"" addr_no=""1"" daisng_id=""9048734"" spPGUID=""urn:spm:9048734"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Huang, Chong</display_name>
+                        <preferred_name>
+                            <full_name>Huang, Chong</full_name>
+                            <first_name>Chong</first_name>
+                            <last_name>Huang</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Huang, Chong</full_name>
+                        <wos_standard>Huang, C</wos_standard>
+                        <first_name>Chong</first_name>
+                        <last_name>Huang</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">CVK-8330-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""4"" role=""author"" addr_no=""1"" daisng_id=""5931007"" spPGUID=""urn:spm:5931007"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Xie, Chuanjie</display_name>
+                        <preferred_name>
+                            <full_name>Xie, Chuanjie</full_name>
+                            <first_name>Chuanjie</first_name>
+                            <last_name>Xie</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Xie, Chuanjie</full_name>
+                        <wos_standard>Xie, CJ</wos_standard>
+                        <first_name>Chuanjie</first_name>
+                        <last_name>Xie</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">CIM-0601-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""5"" role=""author"" addr_no=""1"" daisng_id=""29102269"" spPGUID=""urn:spm:29102269"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Chu, Lin</display_name>
+                        <preferred_name>
+                            <full_name>Chu, Linlin</full_name>
+                            <first_name>Linlin</first_name>
+                            <last_name>Chu</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Chu, Lin</full_name>
+                        <wos_standard>Chu, L</wos_standard>
+                        <first_name>Lin</first_name>
+                        <last_name>Chu</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">GAO-1877-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""6"" role=""author"" addr_no=""1"" daisng_id=""28317819"" spPGUID=""urn:spm:28317819"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Shi, Lei</display_name>
+                        <preferred_name>
+                            <full_name>Shi, Lei</full_name>
+                            <first_name>Lei</first_name>
+                            <last_name>Shi</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Shi, Lei</full_name>
+                        <wos_standard>Shi, L</wos_standard>
+                        <first_name>Lei</first_name>
+                        <last_name>Shi</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">FXG-7427-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                </names>
+                <doctypes count=""2"">
+                    <doctype>Article</doctype>
+                    <doctype>Proceedings Paper</doctype>
+                </doctypes>
+                <conferences count=""1"">
+                    <conference conf_id=""305664"">
+                        <conf_infos count=""1"">
+                            <conf_info>Research at Locate Conference, MAR, 2015, Brisbane, AUSTRALIA</conf_info>
+                        </conf_infos>
+                        <conf_titles count=""1"">
+                            <conf_title>Research at Locate Conference</conf_title>
+                        </conf_titles>
+                        <conf_dates count=""1"">
+                            <conf_date conf_start=""201503"">MAR, 2015</conf_date>
+                        </conf_dates>
+                        <conf_locations count=""1"">
+                            <conf_location>
+                                <conf_city>Brisbane</conf_city>
+                                <conf_state>AUSTRALIA</conf_state>
+                            </conf_location>
+                        </conf_locations>
+                    </conference>
+                </conferences>
+                <publishers>
+                    <publisher>
+                        <address_spec addr_no=""1"">
+                            <full_address>2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND</full_address>
+                            <city>ABINGDON</city>
+                        </address_spec>
+                        <names count=""1"">
+                            <name role=""publisher"" seq_no=""1"" addr_no=""1"">
+                                <display_name>TAYLOR &amp; FRANCIS LTD</display_name>
+                                <full_name>TAYLOR &amp; FRANCIS LTD</full_name>
+                                <unified_name>Taylor &amp; Francis</unified_name>
+                            </name>
+                        </names>
+                    </publisher>
+                </publishers>
+            </summary>
+            <fullrecord_metadata>
+                <languages count=""1"">
+                    <language type=""primary"">English</language>
+                </languages>
+                <normalized_languages count=""1"">
+                    <language type=""primary"">English</language>
+                </normalized_languages>
+                <normalized_doctypes count=""2"">
+                    <doctype>Article</doctype>
+                    <doctype>Meeting</doctype>
+                </normalized_doctypes>
+                <refs count=""39""/>
+                <addresses count=""2"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>Chinese Acad Sci, Inst Geog Sci &amp; Nat Resources Res, State Key Lab Resources &amp; Environm Informat Syst, Beijing, Peoples R China</full_address>
+                            <organizations count=""3"">
+                                <organization>Chinese Acad Sci</organization>
+                                <organization pref=""Y"">Chinese Academy of Sciences</organization>
+                                <organization pref=""Y"">Institute of Geographic Sciences &amp; Natural Resources Research, CAS</organization>
+                            </organizations>
+                            <suborganizations count=""2"">
+                                <suborganization>Inst Geog Sci &amp; Nat Resources Res</suborganization>
+                                <suborganization>State Key Lab Resources &amp; Environm Informat Syst</suborganization>
+                            </suborganizations>
+                            <city>Beijing</city>
+                            <country>Peoples R China</country>
+                        </address_spec>
+                        <names count=""6"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"" daisng_id=""29648531"" spPGUID=""urn:spm:29648531"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Liu, Qingsheng</display_name>
+                                <preferred_name>
+                                    <full_name>Liu, Qingsheng</full_name>
+                                    <first_name>Qingsheng</first_name>
+                                    <last_name>Liu</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Liu, Qingsheng</full_name>
+                                <wos_standard>Liu, QS</wos_standard>
+                                <first_name>Qingsheng</first_name>
+                                <last_name>Liu</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">GCV-8146-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""2"" role=""author"" addr_no=""1"" daisng_id=""24439271"" spPGUID=""urn:spm:24439271"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Liu, Gaohuan</display_name>
+                                <preferred_name>
+                                    <full_name>Liu, Gaohuan</full_name>
+                                    <first_name>Gaohuan</first_name>
+                                    <last_name>Liu</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Liu, Gaohuan</full_name>
+                                <wos_standard>Liu, GH</wos_standard>
+                                <first_name>Gaohuan</first_name>
+                                <last_name>Liu</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">FHD-8877-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""3"" role=""author"" addr_no=""1"" daisng_id=""9048734"" spPGUID=""urn:spm:9048734"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Huang, Chong</display_name>
+                                <preferred_name>
+                                    <full_name>Huang, Chong</full_name>
+                                    <first_name>Chong</first_name>
+                                    <last_name>Huang</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Huang, Chong</full_name>
+                                <wos_standard>Huang, C</wos_standard>
+                                <first_name>Chong</first_name>
+                                <last_name>Huang</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">CVK-8330-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""4"" role=""author"" addr_no=""1"" daisng_id=""5931007"" spPGUID=""urn:spm:5931007"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Xie, Chuanjie</display_name>
+                                <preferred_name>
+                                    <full_name>Xie, Chuanjie</full_name>
+                                    <first_name>Chuanjie</first_name>
+                                    <last_name>Xie</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Xie, Chuanjie</full_name>
+                                <wos_standard>Xie, CJ</wos_standard>
+                                <first_name>Chuanjie</first_name>
+                                <last_name>Xie</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">CIM-0601-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""5"" role=""author"" addr_no=""1"" daisng_id=""29102269"" spPGUID=""urn:spm:29102269"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Chu, Lin</display_name>
+                                <preferred_name>
+                                    <full_name>Chu, Linlin</full_name>
+                                    <first_name>Linlin</first_name>
+                                    <last_name>Chu</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Chu, Lin</full_name>
+                                <wos_standard>Chu, L</wos_standard>
+                                <first_name>Lin</first_name>
+                                <last_name>Chu</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">GAO-1877-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""6"" role=""author"" addr_no=""1"" daisng_id=""28317819"" spPGUID=""urn:spm:28317819"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Shi, Lei</display_name>
+                                <preferred_name>
+                                    <full_name>Shi, Lei</full_name>
+                                    <first_name>Lei</first_name>
+                                    <last_name>Shi</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Shi, Lei</full_name>
+                                <wos_standard>Shi, L</wos_standard>
+                                <first_name>Lei</first_name>
+                                <last_name>Shi</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">FXG-7427-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                        </names>
+                    </address_name>
+                    <address_name>
+                        <address_spec addr_no=""2"">
+                            <full_address>Jiangsu Ctr Collaborat Innovat Geog Informat Reso, Nanjing, Jiangsu, Peoples R China</full_address>
+                            <organizations count=""1"">
+                                <organization>Jiangsu Ctr Collaborat Innovat Geog Informat Reso</organization>
+                            </organizations>
+                            <city>Nanjing</city>
+                            <state>Jiangsu</state>
+                            <country>Peoples R China</country>
+                        </address_spec>
+                        <names count=""1"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""2"" daisng_id=""29648531"" spPGUID=""urn:spm:29648531"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Liu, Qingsheng</display_name>
+                                <preferred_name>
+                                    <full_name>Liu, Qingsheng</full_name>
+                                    <first_name>Qingsheng</first_name>
+                                    <last_name>Liu</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Liu, Qingsheng</full_name>
+                                <wos_standard>Liu, QS</wos_standard>
+                                <first_name>Qingsheng</first_name>
+                                <last_name>Liu</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">GCV-8146-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                        </names>
+                    </address_name>
+                </addresses>
+                <reprint_addresses count=""2"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>Chinese Acad Sci, Inst Geog Sci &amp; Nat Resources Res, State Key Lab Resources &amp; Environm Informat Syst, Beijing, Peoples R China</full_address>
+                            <organizations count=""3"">
+                                <organization>Chinese Acad Sci</organization>
+                                <organization pref=""Y"">Chinese Academy of Sciences</organization>
+                                <organization pref=""Y"">Institute of Geographic Sciences &amp; Natural Resources Research, CAS</organization>
+                            </organizations>
+                            <suborganizations count=""2"">
+                                <suborganization>Inst Geog Sci &amp; Nat Resources Res</suborganization>
+                                <suborganization>State Key Lab Resources &amp; Environm Informat Syst</suborganization>
+                            </suborganizations>
+                            <city>Beijing</city>
+                            <country>Peoples R China</country>
+                        </address_spec>
+                        <names count=""1"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"">
+                                <display_name>Liu, Qingsheng</display_name>
+                                <full_name>Liu, Qingsheng</full_name>
+                                <wos_standard>Liu, QS</wos_standard>
+                                <first_name>Qingsheng</first_name>
+                                <last_name>Liu</last_name>
+                            </name>
+                        </names>
+                    </address_name>
+                    <address_name>
+                        <address_spec addr_no=""2"">
+                            <full_address>Jiangsu Ctr Collaborat Innovat Geog Informat Reso, Nanjing, Jiangsu, Peoples R China</full_address>
+                            <organizations count=""1"">
+                                <organization>Jiangsu Ctr Collaborat Innovat Geog Informat Reso</organization>
+                            </organizations>
+                            <city>Nanjing</city>
+                            <state>Jiangsu</state>
+                            <country>Peoples R China</country>
+                        </address_spec>
+                        <names count=""1"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""2"">
+                                <display_name>Liu, Qingsheng</display_name>
+                                <full_name>Liu, Qingsheng</full_name>
+                                <wos_standard>Liu, QS</wos_standard>
+                                <first_name>Qingsheng</first_name>
+                                <last_name>Liu</last_name>
+                            </name>
+                        </names>
+                    </address_name>
+                </reprint_addresses>
+                <category_info>
+                    <headings count=""1"">
+                        <heading>Science &amp; Technology</heading>
+                    </headings>
+                    <subheadings count=""2"">
+                        <subheading>Physical Sciences</subheading>
+                        <subheading>Technology</subheading>
+                    </subheadings>
+                    <subjects count=""4"">
+                        <subject ascatype=""traditional"" code=""KV"">Geography, Physical</subject>
+                        <subject ascatype=""traditional"" code=""SR"">Remote Sensing</subject>
+                        <subject ascatype=""extended"">Physical Geography</subject>
+                        <subject ascatype=""extended"">Remote Sensing</subject>
+                    </subjects>
+                </category_info>
+                <keywords count=""5"">
+                    <keyword>Tasselled cap transformation</keyword>
+                    <keyword>Landsat 5 TM</keyword>
+                    <keyword>Landsat 7 ETM+</keyword>
+                    <keyword>tasselled cap coefficients</keyword>
+                    <keyword>comparison analysis</keyword>
+                </keywords>
+                <abstracts count=""1"">
+                    <abstract>
+                        <abstract_text count=""1"">
+                            <p>Use of the tasselled cap transformation (TCT) is widely accepted in the remote sensing community, but there is concern whether the TCT components from each unique tasselled-cap-like feature space from different sensors are directly comparable. This study compared the differences of the TCT components from Landsat 5 Thematic Mapper (TM) and Landsat 7 Enhanced TM Plus (ETM+) images with different TCT coefficients from paired images. The results demonstrated that time series analysis of Landsat images using the TCT components derived from Landsat 5 TM and Landsat 7 ETM+ digital numbers (DNs) or at-satellite reflectance could introduce errors. Through converting Landsat 5 TM to Landsat 7 ETM+ DNs prior to the TCT transformation, the RMSEs were reduced by &gt;62 percent. Overall, it was better to derive the TCT components from at-satellite reflectance images, normalised by relative radiometric correction, based on the TCT coefficients for Landsat 7 ETM+ at-satellite reflectance.</p>
+                        </abstract_text>
+                    </abstract>
+                </abstracts>
+            </fullrecord_metadata>
+            <item xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:type=""itemType_wos"" coll_id=""WOS"">
+                <ids avail=""N"">EF2CG</ids>
+                <bib_id>61 (2): 351-365 SEP 2016</bib_id>
+                <bib_pagecount type=""Journal"">214</bib_pagecount>
+                <keywords_plus count=""7"">
+                    <keyword>AT-SATELLITE REFLECTANCE</keyword>
+                    <keyword>COVER CHANGE DETECTION</keyword>
+                    <keyword>TRANSFORMATION</keyword>
+                    <keyword>DISTURBANCES</keyword>
+                    <keyword>DERIVATION</keyword>
+                    <keyword>FORESTS</keyword>
+                    <keyword>TM</keyword>
+                </keywords_plus>
+            </item>
+        </static_data>
+        <dynamic_data>
+            <citation_related>
+                <tc_list>
+                    <silo_tc coll_id=""WOS"" local_count=""5""/>
+                </tc_list>
+            </citation_related>
+            <cluster_related>
+                <identifiers>
+                    <identifier type=""issn"" value=""1449-8596""/>
+                    <identifier type=""eissn"" value=""1836-5655""/>
+                    <identifier type=""doi"" value=""10.1080/14498596.2015.1124810""/>
+                </identifiers>
+            </cluster_related>
+        </dynamic_data>
+    </REC>
+    <REC r_id_disclaimer=""ResearcherID data provided by Clarivate Analytics"">
+        <UID>WOS:000308680600004</UID>
+        <static_data>
+            <summary>
+                <EWUID>
+                    <WUID coll_id=""WOS""/>
+                    <edition value=""WOS.SCI""/>
+                </EWUID>
+                <pub_info sortdate=""2012-07-01"" pubyear=""2012"" has_abstract=""Y"" coverdate=""JUL 2012"" pubmonth=""JUL"" vol=""122"" special_issue=""SI"" pubtype=""Journal"">
+                    <page begin=""22"" end=""29"" page_count=""8"">22-29</page>
+                </pub_info>
+                <titles count=""6"">
+                    <title type=""source"">REMOTE SENSING OF ENVIRONMENT</title>
+                    <title type=""source_abbrev"">REMOTE SENS ENVIRON</title>
+                    <title type=""abbrev_iso"">Remote Sens. Environ.</title>
+                    <title type=""abbrev_11"">REMOT SEN E</title>
+                    <title type=""abbrev_29"">REMOTE SENS ENVIRON</title>
+                    <title type=""item"">Landsat: Building a strong future</title>
+                </titles>
+                <names count=""2"">
+                    <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"" daisng_id=""2057098"" spPGUID=""urn:spm:2057098"" claim_status=""true"" allow_aug=""false"">
+                        <display_name>Loveland, Thomas R.</display_name>
+                        <preferred_name>
+                            <full_name>Loveland, Thomas</full_name>
+                            <first_name>Thomas</first_name>
+                            <last_name>Loveland</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Loveland, Thomas R.</full_name>
+                        <wos_standard>Loveland, TR</wos_standard>
+                        <first_name>Thomas R.</first_name>
+                        <last_name>Loveland</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">AAW-3332-2020</data-item-id>
+                        </data-item-ids>
+                    </name>
+                    <name seq_no=""2"" role=""author"" addr_no=""1"" daisng_id=""15291636"" spPGUID=""urn:spm:15291636"" claim_status=""false"" allow_aug=""true"">
+                        <display_name>Dwyer, John L.</display_name>
+                        <preferred_name>
+                            <full_name>Dwyer, John L.</full_name>
+                            <first_name>John L.</first_name>
+                            <last_name>Dwyer</last_name>
+                        </preferred_name>
+                        <peer_reviews_count>0</peer_reviews_count>
+                        <editor_records_count>0</editor_records_count>
+                        <full_name>Dwyer, John L.</full_name>
+                        <wos_standard>Dwyer, JL</wos_standard>
+                        <first_name>John L.</first_name>
+                        <last_name>Dwyer</last_name>
+                        <data-item-ids>
+                            <data-item-id id-type=""PreferredRID"" type=""person"">DVM-1233-2022</data-item-id>
+                        </data-item-ids>
+                    </name>
+                </names>
+                <doctypes count=""1"">
+                    <doctype>Article</doctype>
+                </doctypes>
+                <publishers>
+                    <publisher>
+                        <address_spec addr_no=""1"">
+                            <full_address>STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA</full_address>
+                            <city>NEW YORK</city>
+                        </address_spec>
+                        <names count=""1"">
+                            <name role=""publisher"" seq_no=""1"" addr_no=""1"">
+                                <display_name>ELSEVIER SCIENCE INC</display_name>
+                                <full_name>ELSEVIER SCIENCE INC</full_name>
+                                <unified_name>Elsevier</unified_name>
+                            </name>
+                        </names>
+                    </publisher>
+                </publishers>
+            </summary>
+            <fullrecord_metadata>
+                <languages count=""1"">
+                    <language type=""primary"">English</language>
+                </languages>
+                <normalized_languages count=""1"">
+                    <language type=""primary"">English</language>
+                </normalized_languages>
+                <normalized_doctypes count=""1"">
+                    <doctype>Article</doctype>
+                </normalized_doctypes>
+                <refs count=""17""/>
+                <addresses count=""1"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>US Geol Survey, Earth Resources Observat &amp; Sci EROS Ctr, Sioux Falls, SD 57198 USA</full_address>
+                            <organizations count=""3"">
+                                <organization>US Geol Survey</organization>
+                                <organization pref=""Y"">United States Department of the Interior</organization>
+                                <organization pref=""Y"">United States Geological Survey</organization>
+                            </organizations>
+                            <suborganizations count=""1"">
+                                <suborganization>Earth Resources Observat &amp; Sci EROS Ctr</suborganization>
+                            </suborganizations>
+                            <city>Sioux Falls</city>
+                            <state>SD</state>
+                            <country>USA</country>
+                            <zip location=""AP"">57198</zip>
+                        </address_spec>
+                        <names count=""2"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"" daisng_id=""2057098"" spPGUID=""urn:spm:2057098"" claim_status=""true"" allow_aug=""false"">
+                                <display_name>Loveland, Thomas R.</display_name>
+                                <preferred_name>
+                                    <full_name>Loveland, Thomas</full_name>
+                                    <first_name>Thomas</first_name>
+                                    <last_name>Loveland</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Loveland, Thomas R.</full_name>
+                                <wos_standard>Loveland, TR</wos_standard>
+                                <first_name>Thomas R.</first_name>
+                                <last_name>Loveland</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">AAW-3332-2020</data-item-id>
+                                </data-item-ids>
+                            </name>
+                            <name seq_no=""2"" role=""author"" addr_no=""1"" daisng_id=""15291636"" spPGUID=""urn:spm:15291636"" claim_status=""false"" allow_aug=""true"">
+                                <display_name>Dwyer, John L.</display_name>
+                                <preferred_name>
+                                    <full_name>Dwyer, John L.</full_name>
+                                    <first_name>John L.</first_name>
+                                    <last_name>Dwyer</last_name>
+                                </preferred_name>
+                                <peer_reviews_count>0</peer_reviews_count>
+                                <editor_records_count>0</editor_records_count>
+                                <full_name>Dwyer, John L.</full_name>
+                                <wos_standard>Dwyer, JL</wos_standard>
+                                <first_name>John L.</first_name>
+                                <last_name>Dwyer</last_name>
+                                <data-item-ids>
+                                    <data-item-id id-type=""PreferredRID"" type=""person"">DVM-1233-2022</data-item-id>
+                                </data-item-ids>
+                            </name>
+                        </names>
+                    </address_name>
+                </addresses>
+                <reprint_addresses count=""1"">
+                    <address_name>
+                        <address_spec addr_no=""1"">
+                            <full_address>US Geol Survey, Earth Resources Observat &amp; Sci EROS Ctr, 47914 252nd St, Sioux Falls, SD 57198 USA</full_address>
+                            <organizations count=""3"">
+                                <organization>US Geol Survey</organization>
+                                <organization pref=""Y"">United States Department of the Interior</organization>
+                                <organization pref=""Y"">United States Geological Survey</organization>
+                            </organizations>
+                            <suborganizations count=""1"">
+                                <suborganization>Earth Resources Observat &amp; Sci EROS Ctr</suborganization>
+                            </suborganizations>
+                            <street>47914 252nd St</street>
+                            <city>Sioux Falls</city>
+                            <state>SD</state>
+                            <country>USA</country>
+                            <zip location=""AP"">57198</zip>
+                        </address_spec>
+                        <names count=""1"">
+                            <name seq_no=""1"" role=""author"" reprint=""Y"" addr_no=""1"">
+                                <display_name>Loveland, Thomas R.</display_name>
+                                <full_name>Loveland, Thomas R.</full_name>
+                                <wos_standard>Loveland, TR</wos_standard>
+                                <first_name>Thomas R.</first_name>
+                                <last_name>Loveland</last_name>
+                            </name>
+                        </names>
+                    </address_name>
+                </reprint_addresses>
+                <category_info>
+                    <headings count=""1"">
+                        <heading>Science &amp; Technology</heading>
+                    </headings>
+                    <subheadings count=""2"">
+                        <subheading>Life Sciences &amp; Biomedicine</subheading>
+                        <subheading>Technology</subheading>
+                    </subheadings>
+                    <subjects count=""6"">
+                        <subject ascatype=""traditional"" code=""JA"">Environmental Sciences</subject>
+                        <subject ascatype=""traditional"" code=""SR"">Remote Sensing</subject>
+                        <subject ascatype=""traditional"" code=""UE"">Imaging Science &amp; Photographic Technology</subject>
+                        <subject ascatype=""extended"">Environmental Sciences &amp; Ecology</subject>
+                        <subject ascatype=""extended"">Remote Sensing</subject>
+                        <subject ascatype=""extended"">Imaging Science &amp; Photographic Technology</subject>
+                    </subjects>
+                </category_info>
+                <keywords count=""5"">
+                    <keyword>Landsat</keyword>
+                    <keyword>Remote sensing</keyword>
+                    <keyword>Earth observation</keyword>
+                    <keyword>Land imaging future</keyword>
+                    <keyword>Climate data records</keyword>
+                </keywords>
+                <abstracts count=""1"">
+                    <abstract>
+                        <abstract_text count=""1"">
+                            <p>Conceived in the 1960s. the Landsat program has experienced six successful missions that have contributed to an unprecedented 39-year record of Earth Observations that capture global land conditions and dynamics. Incremental improvements in imaging capabilities continue to improve the quality of Landsat science data, while ensuring continuity over the full instrument record. Landsats 5 and 7 are still collecting imagery. The planned launch of the Landsat Data Continuity Mission in December 2012 potentially extends the Landsat record to nearly 50 years. The U.S. Geological Survey (USGS) Landsat archive contains nearly three million Landsat images. All USGS Landsat data are available at no cost via the Internet. The USGS is committed to improving the content of the historical Landsat archive though the consolidation of Landsat data held in international archives. In addition, the USGS is working on a strategy to develop higher-level Landsat geo- and biophysical datasets. Finally, Federal efforts are underway to transition Landsat into a sustained operational program within the Department of the Interior and to authorize the development of the next two satellites - Landsats 9 and 10. Published by Elsevier Inc.</p>
+                        </abstract_text>
+                    </abstract>
+                </abstracts>
+            </fullrecord_metadata>
+            <item xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance"" xsi:type=""itemType_wos"" coll_id=""WOS"">
+                <ids avail=""N"">004KM</ids>
+                <bib_id>122: 22-29 Sp. Iss. SI JUL 2012</bib_id>
+                <bib_pagecount type=""Journal"">210</bib_pagecount>
+                <keywords_plus count=""2"">
+                    <keyword>FOREST DISTURBANCE</keyword>
+                    <keyword>PROGRAM</keyword>
+                </keywords_plus>
+            </item>
+            <contributors count=""2"">
+                <contributor>
+                    <name seq_no=""1"" role=""researcher_id"" r_id=""AAW-3332-2020"">
+                        <display_name>Loveland, Thomas</display_name>
+                        <full_name>Loveland, Thomas</full_name>
+                        <first_name>Thomas</first_name>
+                        <last_name>Loveland</last_name>
+                    </name>
+                </contributor>
+                <contributor>
+                    <name seq_no=""2"" role=""researcher_id"" orcid_id=""0000-0002-8281-0896"">
+                        <display_name>Dwyer, John</display_name>
+                        <full_name>Dwyer, John</full_name>
+                        <first_name>John</first_name>
+                        <last_name>Dwyer</last_name>
+                    </name>
+                </contributor>
+            </contributors>
+        </static_data>
+        <dynamic_data>
+            <citation_related>
+                <tc_list>
+                    <silo_tc coll_id=""WOS"" local_count=""250""/>
+                </tc_list>
+                <tc_list_cc dedup_total_count=""25"">
+                    <function_tc func_class=""basis"" local_count=""9""/>
+                    <function_tc func_class=""background"" local_count=""11""/>
+                    <function_tc func_class=""support"" local_count=""1""/>
+                    <function_tc func_class=""differ"" local_count=""0""/>
+                    <function_tc func_class=""discuss"" local_count=""4""/>
+                </tc_list_cc>
+            </citation_related>
+            <cluster_related>
+                <identifiers>
+                    <identifier type=""issn"" value=""0034-4257""/>
+                    <identifier type=""eissn"" value=""1879-0704""/>
+                    <identifier type=""doi"" value=""10.1016/j.rse.2011.09.022""/>
+                </identifiers>
+            </cluster_related>
+        </dynamic_data>
+    </REC></records>"
