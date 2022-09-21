@@ -1,5 +1,3 @@
-import pandas
-import pybliometrics.scopus as scpapi
-import requests
-
-print(scpapi.AbstractRetrieval("2-s2.0-85026484918", id_type = "eid"))
+list1 = [2.5, 3.2, 4.1, 5.6]
+for i in range(len(list1)):
+    print(list1[i])

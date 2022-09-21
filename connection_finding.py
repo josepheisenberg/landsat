@@ -10,13 +10,14 @@ count = 0
 connections = [[0 for i in range(13, 45)] for j in range(13, 45)]
 names = [df.columns[i] for i in range(13, 45)]
 for i in data:
-    specdata = [i[j] for j in range(13, 45)]
-    for k in range(len(connections)):
-        for l in range(len(connections[k])):
-            if(specdata[k] != 0 and specdata[l] != 0):
-                connections[k][l] += 1
+    if(i[5] == 1985 or i[5] == None):
+        specdata = [i[j] for j in range(13, 45)]
+        for k in range(len(connections)):
+            for l in range(len(connections[k])):
+                if(specdata[k] != 0 and specdata[l] != 0):
+                    connections[k][l] += 1
 final_df = pd.DataFrame(numpy.array(connections))
 final_df.columns = names
-final_df.to_csv("network_connections.csv")        
+final_df.to_csv("network_connectionsgroup1985andearly.csv")        
     
         

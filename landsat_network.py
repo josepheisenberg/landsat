@@ -12,13 +12,14 @@ dictio = {"forest" : 1, "urban" : 1, "water": 1, "crop" : 1, "glacier" : 1, "wat
 for i in df.columns:
     if(count >= 0 and i != "gis" and i != "climate"):
         numvals = df.values[count][count+1]
-        size = 2.5*numpy.log(numvals) + numvals * .01 - 10
+        size = 5*numpy.log(numvals) + numvals * .02 - 20
         graph.add_node(i, size = size, title = i, group = dictio[i])
     count += 1
 for i in range(1, len(df.values)):
     for j in range(i+1, len(df.values[i])):
         if(df.values[i-1][j] > 300 and df.columns[i] != "gis" and df.columns[i] != "climate" and df.columns[j] != "gis" and df.columns[j] != "climate"):
-            w = .02 * (df.values[i-1][j])
+            w = .01  * (df.values[i-1][j])
             graph.add_edge(df.columns[i], df.columns[j], width = w)
-landsat_net.from_nx(graph) 
+landsat_net.from_nx(graph)
+landsat_net.barnes_hut(gravity=-80000, central_gravity=0.3, spring_length=250, spring_strength=0.001, damping=0.09, overlap=0)
 landsat_net.show("landsatnet.html") 
