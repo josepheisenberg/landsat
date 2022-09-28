@@ -10,7 +10,7 @@ count = 0
 connections = [[0 for i in range(13, 45)] for j in range(13, 45)]
 names = [df.columns[i] for i in range(13, 45)]
 for i in data:
-    if(i[5] == 1985 or i[5] == None):
+    if(i[5] == 2022 or i[5] == 2020):
         specdata = [i[j] for j in range(13, 45)]
         for k in range(len(connections)):
             for l in range(len(connections[k])):
@@ -18,6 +18,6 @@ for i in data:
                     connections[k][l] += 1
 final_df = pd.DataFrame(numpy.array(connections))
 final_df.columns = names
-final_df.to_csv("network_connectionsgroup1985andearly.csv")        
+final_df.to_csv("network_connectionsgroup2022-2020.csv")        
     
         
