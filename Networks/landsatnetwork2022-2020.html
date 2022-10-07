@@ -1,0 +1,116 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1>2022-2020 Landsat Article Keyword Overlap</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 1000px;
+            background-color: #ffffff;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"font": {"color": "black"}, "group": 1, "id": "forest", "label": "forest", "shape": "dot", "size": 23, "title": "forest"}, {"font": {"color": "black"}, "group": 2, "id": "carbon", "label": "carbon", "shape": "dot", "size": 19, "title": "carbon"}, {"font": {"color": "black"}, "group": 2, "id": "ecosystem", "label": "ecosystem", "shape": "dot", "size": 26, "title": "ecosystem"}, {"font": {"color": "black"}, "group": 2, "id": "biomass", "label": "biomass", "shape": "dot", "size": 17, "title": "biomass"}, {"font": {"color": "black"}, "group": 3, "id": "time series", "label": "time series", "shape": "dot", "size": 26, "title": "time series"}, {"font": {"color": "black"}, "group": 3, "id": "random forest", "label": "random forest", "shape": "dot", "size": 22, "title": "random forest"}, {"font": {"color": "black"}, "group": 1, "id": "urban", "label": "urban", "shape": "dot", "size": 22, "title": "urban"}, {"font": {"color": "black"}, "group": 2, "id": "urban expansion", "label": "urban expansion", "shape": "dot", "size": 15, "title": "urban expansion"}, {"font": {"color": "black"}, "group": 2, "id": "surface temperature", "label": "surface temperature", "shape": "dot", "size": 24, "title": "surface temperature"}, {"font": {"color": "black"}, "group": 4, "id": "land surface temperature", "label": "land surface temperature", "shape": "dot", "size": 22, "title": "land surface temperature"}, {"font": {"color": "black"}, "group": 4, "id": "land use land cover", "label": "land use land cover", "shape": "dot", "size": 23, "title": "land use land cover"}, {"font": {"color": "black"}, "group": 1, "id": "water", "label": "water", "shape": "dot", "size": 21, "title": "water"}, {"font": {"color": "black"}, "group": 2, "id": "water quality", "label": "water quality", "shape": "dot", "size": 16, "title": "water quality"}, {"font": {"color": "black"}, "group": 2, "id": "climate change", "label": "climate change", "shape": "dot", "size": 22, "title": "climate change"}, {"font": {"color": "black"}, "group": 2, "id": "habitat", "label": "habitat", "shape": "dot", "size": 17, "title": "habitat"}, {"font": {"color": "black"}, "group": 2, "id": "ecosystem service", "label": "ecosystem service", "shape": "dot", "size": 16, "title": "ecosystem service"}, {"font": {"color": "black"}, "group": 3, "id": "google earth engine", "label": "google earth engine", "shape": "dot", "size": 20, "title": "google earth engine"}, {"font": {"color": "black"}, "group": 4, "id": "normalized difference vegetation index", "label": "normalized difference vegetation index", "shape": "dot", "size": 23, "title": "normalized difference vegetation index"}, {"font": {"color": "black"}, "group": 3, "id": "machine learning", "label": "machine learning", "shape": "dot", "size": 18, "title": "machine learning"}, {"font": {"color": "black"}, "group": 3, "id": "support vector machine", "label": "support vector machine", "shape": "dot", "size": 17, "title": "support vector machine"}, {"font": {"color": "black"}, "group": 3, "id": "change detection", "label": "change detection", "shape": "dot", "size": 17, "title": "change detection"}, {"font": {"color": "black"}, "group": 4, "id": "normalized difference water index", "label": "normalized difference water index", "shape": "dot", "size": 16, "title": "normalized difference water index"}, {"font": {"color": "black"}, "group": 1, "id": "crop", "label": "crop", "shape": "dot", "size": 14.597400041822347, "title": "crop"}, {"font": {"color": "black"}, "group": 1, "id": "glacier", "label": "glacier", "shape": "dot", "size": 15.440231975338945, "title": "glacier"}, {"font": {"color": "black"}, "group": 2, "id": "soil erosion", "label": "soil erosion", "shape": "dot", "size": 11.443891490402008, "title": "soil erosion"}, {"font": {"color": "black"}, "group": 3, "id": "object based image", "label": "object based image", "shape": "dot", "size": 11.792649574766061, "title": "object based image"}, {"font": {"color": "black"}, "group": 3, "id": "neural network", "label": "neural network", "shape": "dot", "size": 18.059384662866865, "title": "neural network"}, {"font": {"color": "black"}, "group": 4, "id": "digital elevation model", "label": "digital elevation model", "shape": "dot", "size": 17.88033787348024, "title": "digital elevation model"}, {"font": {"color": "black"}, "group": 4, "id": "normalized difference built index", "label": "normalized difference built index", "shape": "dot", "size": 11.193664658069412, "title": "normalized difference built index"}, {"font": {"color": "black"}, "group": 4, "id": "leaf area index", "label": "leaf area index", "shape": "dot", "size": 13.880916620462289, "title": "leaf area index"}]);
+        edges = new vis.DataSet([{"from": "forest", "to": "carbon", "weight": 1, "width": 5.9}, {"from": "forest", "to": "ecosystem", "weight": 1, "width": 8.9}, {"from": "forest", "to": "biomass", "weight": 1, "width": 4.7}, {"from": "forest", "to": "time series", "weight": 1, "width": 8.6}, {"from": "forest", "to": "random forest", "weight": 1, "width": 8.4}, {"from": "urban", "to": "urban expansion", "weight": 1, "width": 5.5}, {"from": "urban", "to": "surface temperature", "weight": 1, "width": 12.0}, {"from": "urban", "to": "land surface temperature", "weight": 1, "width": 11.0}, {"from": "urban", "to": "land use land cover", "weight": 1, "width": 5.4}, {"from": "water", "to": "water quality", "weight": 1, "width": 5.800000000000001}, {"from": "water", "to": "ecosystem", "weight": 1, "width": 4.6000000000000005}, {"from": "carbon", "to": "ecosystem", "weight": 1, "width": 6.5}, {"from": "carbon", "to": "biomass", "weight": 1, "width": 5.0}, {"from": "climate change", "to": "ecosystem", "weight": 1, "width": 8.3}, {"from": "climate change", "to": "surface temperature", "weight": 1, "width": 4.3}, {"from": "climate change", "to": "time series", "weight": 1, "width": 4.6000000000000005}, {"from": "ecosystem", "to": "habitat", "weight": 1, "width": 4.4}, {"from": "ecosystem", "to": "ecosystem service", "weight": 1, "width": 9.5}, {"from": "ecosystem", "to": "biomass", "weight": 1, "width": 5.1000000000000005}, {"from": "ecosystem", "to": "google earth engine", "weight": 1, "width": 5.0}, {"from": "ecosystem", "to": "time series", "weight": 1, "width": 9.600000000000001}, {"from": "ecosystem", "to": "random forest", "weight": 1, "width": 5.800000000000001}, {"from": "ecosystem", "to": "normalized difference vegetation index", "weight": 1, "width": 5.4}, {"from": "ecosystem", "to": "land use land cover", "weight": 1, "width": 4.5}, {"from": "surface temperature", "to": "normalized difference vegetation index", "weight": 1, "width": 8.5}, {"from": "surface temperature", "to": "land surface temperature", "weight": 1, "width": 29.900000000000002}, {"from": "surface temperature", "to": "land use land cover", "weight": 1, "width": 5.2}, {"from": "google earth engine", "to": "time series", "weight": 1, "width": 7.6000000000000005}, {"from": "google earth engine", "to": "random forest", "weight": 1, "width": 7.2}, {"from": "machine learning", "to": "support vector machine", "weight": 1, "width": 4.2}, {"from": "machine learning", "to": "random forest", "weight": 1, "width": 8.700000000000001}, {"from": "support vector machine", "to": "random forest", "weight": 1, "width": 5.300000000000001}, {"from": "time series", "to": "change detection", "weight": 1, "width": 4.4}, {"from": "time series", "to": "random forest", "weight": 1, "width": 6.4}, {"from": "time series", "to": "normalized difference vegetation index", "weight": 1, "width": 7.6000000000000005}, {"from": "normalized difference vegetation index", "to": "land surface temperature", "weight": 1, "width": 7.5}, {"from": "normalized difference vegetation index", "to": "normalized difference water index", "weight": 1, "width": 4.6000000000000005}, {"from": "land surface temperature", "to": "land use land cover", "weight": 1, "width": 5.0}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": false,
+            "type": "continuous"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "barnesHut": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.3,
+            "damping": 0.09,
+            "gravitationalConstant": -2000,
+            "springConstant": 0.001,
+            "springLength": 50
+        },
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>
