@@ -1,14 +1,15 @@
 import pandas
 import numpy 
 
-dfa = pandas.read_csv("scopusretrievaldataa.csv")
-dfb = pandas.read_csv("scopusretrievaldatab.csv")
-dfc = pandas.read_csv("scopusretrievaldatac.csv")
-dfd = pandas.read_csv("scopusretrievaldatad.csv")
-dfe = pandas.read_csv("scopusretrievaldatae.csv")
+dfb = pandas.read_csv("scopusretrievalnewb.csv")
+dfc = pandas.read_csv("scopusretrievalnewc.csv")
+dfd = pandas.read_csv("scopusretrievalnewd.csv")
+dfe = pandas.read_csv("scopusretrievalnewe.csv")
 
-wholeframe = [dfa, dfb, dfc, dfd, dfe]
+wholeframe = [dfb, dfc, dfd, dfe]
 
 finaldf = pandas.concat(wholeframe)
 
-finaldf.to_csv("ScopusRetrievalDataFinal.csv")
+#arr = finaldf.to_numpy()
+
+finaldf.to_csv("ScopusRetrievalDataNewFinal.csv", index = False)
